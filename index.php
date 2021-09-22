@@ -2,4 +2,6 @@
 
 echo "hola mundo";
 echo $_SERVER['SERVER_NAME'];
+echo "re-build";
+
 ?>
